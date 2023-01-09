@@ -11,5 +11,5 @@
 
 add_shortcode( 'shortcode_test', 'shortcode_handler_function' );
 function shortcode_handler_function(){
-    return "hello world";
+    return "halo dunia";
 }
